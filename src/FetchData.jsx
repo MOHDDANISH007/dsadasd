@@ -1,5 +1,3 @@
-// const apiKey = 'f2fbb965309246e7906f64251396be87'
-// d2a320ed5a3a463ca1b8dce923cd49dc
 
 const endpoint = `https://api.spoonacular.com/recipes/random?apiKey=${import.meta.env.VITE_danish_api}&number=6`
 
